@@ -1,6 +1,7 @@
 Materialien für Aktivitäten im Hörsaal
 
-Zur lokalen Nutzung oder zur Nutzung über die [RStudio Cloud](https://rstudio.cloud/). Denken Sie daran die temporäre Kopie zu speichern und anschließend mit Ihrer Version des Projektes weiterzuarbeiten.
+Zur lokalen Nutzung oder zur Nutzung über die [RStudio Cloud](https://rstudio.cloud/). Denken Sie daran die temporäre Kopie zu speichern und anschließend mit Ihrer Version des Projektes weiterzuarbeiten. Bei der Nutzung des freien Acoounts ("Cloud Free") sollte für eine längere monatliche Nutzungsdauer die Rechenleistung reduziert werden: Im Projekt rechts oben in den Einstellungen ("Zahnrad") Resources auf Minimum (0.5 GB, 0.5 CPU) stellen.
+
 
 Folgende Hinweise gelten für die lokale Nutzung:
 
