@@ -1,6 +1,6 @@
 ---
 title: "Vorhersagemodellierung Gehalt"
-author: "Gabi Musterstudentin, Horst Vozeigestudent, Biene Maja"
+author: "Gabi Musterstudentin, Horst Vozeigestudent, Fließiges Lieschen"
 date: "`r Sys.Date()`"
 output: 
   word_document:
